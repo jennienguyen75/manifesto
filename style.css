@@ -1,12 +1,14 @@
 body {
+  background-color: black
   background-image: url('designmanifesto-img.jpg');
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   font-family: Arial, sans-serif;
 }
 .poem {
-  width: 400px;
   margin: 100px auto;
+  overflow-y: scroll
   text-align: center;
 }
 .poem p {
@@ -23,7 +25,7 @@ body {
 .poem p.small {
   margin: 10px 0;
   letter-spacing: 1px;
-  font-size: 15px;
+  font-size: 18px;
 }
 .poem p.bold {
   font-weight: bold;
