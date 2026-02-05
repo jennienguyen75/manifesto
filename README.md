@@ -1,2 +1,0 @@
-# concrete-poem
-Manifesto Assignment
