@@ -35,3 +35,7 @@ body {
 .poem p.bold {
   font-weight: bold;
 }
+hr {
+  height: 4px;
+  width: cover;
+}
