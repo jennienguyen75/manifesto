@@ -14,18 +14,23 @@ body {
 .poem p {
   margin: 10px 0;
   letter-spacing: 1px;
-  font-size: 30px;
+  font-size: 25px;
   color: white;
 }
 .poem p.big {
   margin: 10px 0;
   letter-spacing: 1px;
-  font-size: 50px;
+  font-size: 40px;
+}
+.poem p.bigger {
+  margin: 10px 0;
+  letter-spacing: 1px;
+  font-size: 60px;
 }
 .poem p.small {
   margin: 10px 0;
   letter-spacing: 1px;
-  font-size: 18px;
+  font-size: 15px;
 }
 .poem p.bold {
   font-weight: bold;
