@@ -22,8 +22,14 @@ body {
 .poem p.bigger { font-size: 60px; }
 .poem p.small { font-size: 15px; }
 .poem p.bold { font-weight: bold; }
-.poem p.left { text-align: left; }
-.poem p. right {text-align: right; }
+.poem p.left { 
+  text-align: left; 
+  left-margin: 20px; 
+}
+.poem p. right {
+  text-align: right; 
+  right-margin: 20px; 
+}
 hr {
   border: none;
   height: 100px;
