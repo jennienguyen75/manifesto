@@ -36,6 +36,8 @@ body {
   font-weight: bold;
 }
 hr {
-  height: 4px;
+  border: none;
+  height: 10px;
   width: cover;
+  background-color: transparent;
 }
