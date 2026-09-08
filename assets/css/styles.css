@@ -1,7 +1,8 @@
 /* styles.css */
 html {
-	background-image: url(./img/clouds-dancing.gif);
-	background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(209, 10, 193, 1) 50%, rgba(42, 117, 163, 1) 100%);
+	background-image: url(./img/cat.jpg);
+  background-repeat: repeat;
+  background-position:center;
 }
 .comic-relief-regular {
   font-family: "Comic Relief", system-ui;
